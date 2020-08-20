@@ -1,6 +1,6 @@
 ﻿# ajax-search
 
-结合juqeryUi和php学习的一个小系统
+结合jqueryUi和php学习的一个小系统
 
 搜索功能未实现
 已实现：
